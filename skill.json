@@ -1,0 +1,16 @@
+{
+  "name": "genpark-scalar-quantization-sq8-vector-compressor-skill",
+  "version": "1.0.0",
+  "description": "Uniform 8-bit scalar quantization (SQ8) for high-density embedding compression and asymmetric dot product distance.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "quantization",
+    "sq8",
+    "compression",
+    "embeddings",
+    "vector-search",
+    "genpark",
+    "mcp"
+  ]
+}
